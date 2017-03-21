@@ -1,0 +1,6 @@
+async-generator==1.6
+attrs==16.3.0
+modbus-tk==0.5.4
+pyserial==3.1
+sortedcontainers==1.5.7
+trio==0.1.0
